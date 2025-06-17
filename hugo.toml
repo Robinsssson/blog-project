@@ -1,0 +1,7 @@
+baseURL = 'https://Robinsssson.github.io/'
+languageCode = 'zh-cn'
+title = 'Rovina'
+theme = 'stack'
+
+DefaultContentLanguage = 'zh-cn'
+
